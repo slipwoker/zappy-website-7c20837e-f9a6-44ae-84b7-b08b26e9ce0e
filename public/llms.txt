@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלו קולקציית תכשיטים ושעוני יוקרה בלעדית לנשים וגברים. משלוח מהיר, החזרה עד 30 יום וחווית קנייה מאובטחת. אלגנטיות נצחית במחיר משתלם.
+
+### קולקציות
+https://example.com/collections
+עיינו בקולקציות הפרימיום שלנו: שעוני יוקרה, טבעות מהממות, שרשראות אלגנטיות ועגילים מעוצבים. מצאו את האקססורי המושלם שמשקף את הסטייל שלכם.
+
+### יצירת חתימה
+https://example.com/signature-piece
+הזמינו תכשיט או שעון מותאם אישית במיוחד עבורכם. שירות אקסקלוסיבי ליצירת חתימה ייחודית שמספרת את הסיפור שלכם. ייעוץ אישי ללא עלות.
+
+### צור קשר
+https://example.com/contact
+צוות המומחים שלנו כאן בשבילכם. קבלו ייעוץ מקצועי לבחירת התכשיט או השעון המושלם, תמיכה מהירה ושירות אקסקלוסיבי. צרו קשר עוד היום!
+
+### Products
+https://example.com/products
+המוצרים שלנו - רינגר תכשיטים
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - רינגר תכשיטים
+
+### Category
+https://example.com/category/:slug
+מוצרים - רינגר תכשיטים
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
